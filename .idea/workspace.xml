@@ -21,7 +21,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sasas.py">
+        <entry file="file://$PROJECT_DIR$/aa.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
@@ -48,6 +48,7 @@
         <option value="$PROJECT_DIR$/test2" />
         <option value="$PROJECT_DIR$/newzf.py" />
         <option value="$PROJECT_DIR$/sasas.py" />
+        <option value="$PROJECT_DIR$/aa.py" />
       </list>
     </option>
   </component>
@@ -214,6 +215,13 @@
     <entry file="file://$PROJECT_DIR$/aa.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/sasas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -222,7 +230,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sasas.py">
+    <entry file="file://$PROJECT_DIR$/aa.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
